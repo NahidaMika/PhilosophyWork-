@@ -55,8 +55,9 @@
 >> Errores derivados del aislamiento mental de la gente. 
 
 3. Realizar un dibujo de una mascara que represente un idolos al que tu consideres importante y relevante en tu vida, aquel idolo que consideres refleja una parte de tu personalidad. Este idolo puede ser de los 4 de Bacon o del que tu hayas propuesto.
-4. ![[https://github.com/NahidaMika/PhilosophyWork-/blob/main/Screenshot_20251007_135642.jpg]]
-Representa el Consumismo y El idolo de la caverna
-[[FrancisBaconIdols.excalidraw]]
+
+> ![[https://github.com/NahidaMika/PhilosophyWork-/blob/main/Screenshot_20251007_135642.jpg]]
+>> Representa el Consumismo y El idolo de la caverna
+
 
 
